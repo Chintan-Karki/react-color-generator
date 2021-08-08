@@ -17,7 +17,6 @@ function App() {
 			setList(colors);
 		} catch (error) {
 			setError(true);
-			console.log(error);
 		}
 	};
 
